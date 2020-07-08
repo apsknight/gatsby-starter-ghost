@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://boring-hypatia-f8e84f.netlify.app",
+    "apiUrl": "https://167.71.239.114",
     "contentApiKey": "6f8665496f94b35fe05f8784f8"
   },
   "production": {
-    "apiUrl": "https://boring-hypatia-f8e84f.netlify.app",
+    "apiUrl": "https://167.71.239.114",
     "contentApiKey": "6f8665496f94b35fe05f8784f8"
   }
 }
