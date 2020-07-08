@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://167.71.239.114",
+    "apiUrl": "https://lastbenchers.ninja",
     "contentApiKey": "6f8665496f94b35fe05f8784f8"
   },
   "production": {
-    "apiUrl": "https://167.71.239.114",
+    "apiUrl": "https://lastbenchers.ninja",
     "contentApiKey": "6f8665496f94b35fe05f8784f8"
   }
 }
